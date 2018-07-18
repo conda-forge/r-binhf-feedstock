@@ -14,14 +14,16 @@ Summary: Binomial Haar-Fisz transforms for Gaussianization
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-binhf-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-binhf-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-binhf-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-binhf-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-binhf-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-binhf-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-binhf-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-binhf-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-binhf-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-binhf-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-binhf-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-binhf-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-binhf/badges/version.svg)](https://anaconda.org/conda-forge/r-binhf)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-binhf/badges/downloads.svg)](https://anaconda.org/conda-forge/r-binhf)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--binhf-green.svg)](https://anaconda.org/conda-forge/r-binhf) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-binhf.svg)](https://anaconda.org/conda-forge/r-binhf) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-binhf.svg)](https://anaconda.org/conda-forge/r-binhf) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-binhf.svg)](https://anaconda.org/conda-forge/r-binhf) |
 
 Installing r-binhf
 ==================
