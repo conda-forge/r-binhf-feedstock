@@ -1,4 +1,4 @@
-{% set version = '1.0-1' %}
+{% set version = "1.0-3" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -12,7 +12,7 @@ source:
   url:
     - https://cran.r-project.org/src/contrib/binhf_{{ version }}.tar.gz
     - https://cran.r-project.org/src/contrib/Archive/binhf/binhf_{{ version }}.tar.gz
-  sha256: 33d1a9f29aa9bd7123a092f8b6d61c2fca8e9e80df1ceb8e175b562357110951
+  sha256: be80a2f060e13e9aee33372f7c7971803169eb95840d8a9a7ae7b6f69116bced
 
 build:
   number: 0
