@@ -14,9 +14,9 @@ source:
   sha256: be80a2f060e13e9aee33372f7c7971803169eb95840d8a9a7ae7b6f69116bced
 
 build:
+  noarch: generic
   merge_build_host: True  # [win]
-  number: 1
-  skip: true  # [win32]
+  number: 1001
   rpaths:
     - lib/R/lib/
     - lib/
@@ -45,8 +45,7 @@ about:
   license: GPL (>= 2)
   summary: Binomial Haar-Fisz transforms for Gaussianization as in Nunes and Nason (2009).
   license_family: GPL3
-  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3'  # [unix]
-  license_file: '{{ environ["PREFIX"] }}\R\share\licenses\GPL-3'  # [win]
+  license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-3'
 
 extra:
   recipe-maintainers:
