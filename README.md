@@ -1,11 +1,11 @@
-About r-binhf
-=============
+About r-binhf-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-binhf-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=binhf
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-binhf-feedstock/blob/main/LICENSE.txt)
 
 Summary: Binomial Haar-Fisz transforms for Gaussianization as in Nunes and Nason (2009).
 
